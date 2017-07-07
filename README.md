@@ -17,3 +17,4 @@ ClipSaverV is a small script which let your players to save clips for the Rockst
 |                Start record clip               |            INPUT_SAVE_REPLAY_CLIP           |      F3     |
 |                   Save record                  |            INPUT_SAVE_REPLAY_CLIP           |      F3     |
 |                 Discard record                 | INPUT_REPLAY_START_STOP_RECORDING_SECONDARY |      F2     |
+|              Disconnection button              |               INPUT_DROP_AMMO               |     F10     |
