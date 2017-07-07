@@ -20,8 +20,9 @@ Citizen.CreateThread(function ()
 			end
 		end
 		
-		if(IsControlJustPressed(1,config.binding.disconnection)) then
+		if(IsControlJustPressed(1,config.binding.open_editor)) then
 			NetworkSessionLeaveSinglePlayer()
+			ActivateRockstarEditor()
 		end
 	end
 end)
