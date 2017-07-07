@@ -1,4 +1,4 @@
-## ClipSaverV v1.0.0
+## ClipSaverV v1.2.0
 
 ClipSaverV is a small script which let your players to save clips for the Rockstar Editor (Pause -> Rockstar Editor)
 
