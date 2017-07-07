@@ -9,6 +9,8 @@ ClipSaverV is a small script which let your players to save clips for the Rockst
 * Stop your server, clear the cache then start your server
 * Enjoy :)
 
+## /!\ You have to be in the session you recorded the clip to edit it in the rockstar editor, and you have to press the disconnection button before start the Rockstar Editor (check you have a little red box on your screen in upper left corner) otherwise it will bug out /!\
+
 ## Default bindings
 
 |                     Action                     |               Default Binding               | Default Key |
