@@ -19,5 +19,9 @@ Citizen.CreateThread(function ()
 				StartRecording(1)
 			end
 		end
+		
+		if(IsControlJustPressed(1,config.binding.disconnection)) then
+			NetworkSessionLeaveSinglePlayer()
+		end
 	end
 end)
