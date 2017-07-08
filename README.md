@@ -1,6 +1,6 @@
 ## ClipSaverV v1.2.0
 
-ClipSaverV is a small script which let your players to save clips for the Rockstar Editor (Pause -> Rockstar Editor)
+ClipSaverV is a small script which let your players to save clips for the Rockstar Editor (Pause -> Rockstar Editor) with scripthook truned off (no trainers)
 
 ## Installation
 * Copy the clipsaverv folder and put it in your resources folder from the [git](https://github.com/Kyominii/ClipSaverV/)
@@ -10,6 +10,7 @@ ClipSaverV is a small script which let your players to save clips for the Rockst
 * Enjoy :)
 
 ## /!\ You have to be in the session you recorded the clip to edit it in the rockstar editor, and you have to press the Open Editor button to open the Rockstar Editor (not the menu pause one) otherwise it will bug out /!\
+Note: Opening the editor menu will instance you.
 
 ## Default bindings
 
